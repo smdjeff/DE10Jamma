@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTV09A-4020U-A503
+D Potentiometers 50K AUDIO 20%
+K
+F https://www.bourns.com/pdfs/PTV09.pdf
+$ENDCMP
+#
+#End Doc Library
