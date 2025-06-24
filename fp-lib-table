@@ -1,3 +1,9 @@
 (fp_lib_table
-  (lib (name Jamma)(type KiCad)(uri ${KIPRJMOD}/Jamma.pretty)(options "")(descr ""))
+  (version 7)
+  (lib (name "Jamma")(type "KiCad")(uri "${KIPRJMOD}/Jamma.pretty")(options "")(descr ""))
+  (lib (name "TPA3138D2")(type "KiCad")(uri "${KIPRJMOD}/libs/TPA3138D2PWP/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "ETQ_P4M330KVC")(type "KiCad")(uri "${KIPRJMOD}/libs/ETQ_P4M330KVC/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "25TXV100M6_3X8")(type "KiCad")(uri "${KIPRJMOD}/libs/25TXV100M6_3X8/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "LM4871MX_NOPB")(type "KiCad")(uri "${KIPRJMOD}/libs/LM4871MX_NOPB")(options "")(descr ""))
+  (lib (name "PTV09A-4020U-A503")(type "KiCad")(uri "${KIPRJMOD}/libs/PTV09A-4020U-A503")(options "")(descr ""))
 )
