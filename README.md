@@ -6,7 +6,7 @@ JAMMA/NeoGeo MVS audio, video & control IO for DE10-Nano.
 
 Discussion thread: [https://www.atari-forum.com/viewtopic.php?f=120&t=38793](https://www.atari-forum.com/viewtopic.php?f=120&t=38793)
 
-![Imgur](https://i.imgur.com/aJJ6fK7.jpg)
+![Imgur](DE10Jamma.jpg)
 
 ## Description
 
@@ -43,23 +43,7 @@ DC power output is provided for the DE10-Nano. This should be connected using a 
 Arcade power supplies are typically adjustable. DE10-Nano has regulation for lower voltage supplies, and should operate correctly from nominal +5v settings. If +5v rail is adjusted too high, the DE10-Nano's over-voltage protection circuitry will not allow the board to power up.
 
 ## Parts List
-Qty | Reference(s)         | Value          | Part Number
-----|----------------------|----------------|------------
-30  | C1, C2, C3, C4, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38 | 10nF | C83170
-4   | C5, C6, C7, C11      | 470nF          | C106843
-4   | C8, C9, C10, C12     | 1000uF         | C442834
-1   | J1, J2, J6           | Long 0.1" pins | C51353
-1   | JP1, J3, J4, J5, J11 | 0.1" pins      | C358690
-1   | J9                   | 2.5mm JST pins | C160365
-1   | J7                   | 0.1" socket    | C35165
-1   | J10                  | 2.1mm power    | C319099
-1   | R1                   | 100R           | C105577
-28  | R2, R3, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45, R60, R61, R62, R63, R64, R65, R66, R67, R68, R69, R70, R71, R72, R73 | 1k | C140870
-16  | R4, R100, R101, R102, R103, R104, R105, R106, R107, R108, R109, R110, R111, R112, R113, R114 | 604R | Bourns CAY16-6040F4LF
-1   | R8                   | 300k           | C114530
-1   | RV1                  | 50k            | C81264
-1   | U1                   | TDA7496        | TDA7496
-1   | FAN                  | 40mm fan 5/12v | 
+See BOM in fabrication outputs file
 
 ###### Notes
    1. Part numbers from [LSSC](https://lcsc.com/) are provided where possible. Values for some components do not match the schematic, and have been adjusted to reduce the number of different components.
