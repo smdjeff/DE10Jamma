@@ -10,6 +10,11 @@ Discussion thread: [https://www.atari-forum.com/viewtopic.php?f=120&t=38793](htt
 
 ## Description
 
+### Version 2
+* Single sided assembly.
+* Swap out obsolete amplifier for a more common part.
+* Swap hard to source RPacks for common 0402 discrete resistors
+
 ### Overview
 DE10Jamma allows a DE10-Nano board to be connected directly to an arcade cabinet as simply as possible. USB and HDMI serial interfaces are not used, in order to remain as close as possible to the original arcade hardware and avoid unnecessary cost or complexity.
 
